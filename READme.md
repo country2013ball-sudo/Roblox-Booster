@@ -9,14 +9,6 @@ Perfect for getting ultra-smooth gameplay on heavy servers like *Steal an Egg*.
 - 🧹 **Aggressive Cache Wipe:** Purges Roblox temp data, `.thumbnails`, and global junk files to stop micro-stutters.
 - ⚡ **Non-Root Optimizations:** Guides you through memory directives to force the GPU to handle UI rendering, freeing up your CPU for gaming.
 
-## ⚙️ Quick Start (Termux)
-
-You don't need to download the file manually. Just copy and paste this one-liner into Termux to execute the booster directly:
-
-```bash
-curl -sL [https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh](https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh) | bash
-
-
 ⚠️ Prerequisites
 ​Make sure you have granted storage permissions to Termux so the script can clear the cache files. If you haven't done this yet, run:
 
@@ -27,9 +19,11 @@ curl -sL [https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/
 ​Animator duration scale: 0.5x
 
 
-### 2. Your Termux `curl` Command
-To run your booster script directly from your new repository, open Termux and paste this exact command:
+## ⚙️ Quick Start (Termux)
+
+You don't need to download the file manually. Just copy and paste this one-liner into Termux to execute the booster directly:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh | bash
+curl -sL [https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh](https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh) | bash
+
 
