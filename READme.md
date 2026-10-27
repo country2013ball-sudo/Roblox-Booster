@@ -24,7 +24,7 @@ Perfect for getting ultra-smooth gameplay on heavy servers like *Steal an Egg*.
 You don't need to download the file manually. Just copy and paste this one-liner into Termux to execute the booster directly:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/antigravity.sh | bash
+curl -sL https://raw.githubusercontent.com/country2013ball-sudo/Roblox-Booster/main/Roblox.sh | bash
 
 
 
